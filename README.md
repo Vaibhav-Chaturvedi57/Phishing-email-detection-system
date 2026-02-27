@@ -35,3 +35,24 @@ The system predicts whether an email is **Phishing** or **Legitimate**.
 ---
 
 ## 📂 Project Structure
+------
+## 📊 Dataset
+
+The dataset is not included due to GitHub size limits.
+
+Download from:
+(Kaggle dataset link)
+
+Place inside:
+data/combined_data.csv
+----------------------
+## 📸 Application Interface
+
+### 🖥 Main Interface
+![Interface](assets/Interface.png)
+
+### ⚠ Example 1 – Phishing Detection
+![Legitimate Example](assets/Example1.png)
+
+### ✅ Example 2 – Legitimate Email
+![Phishing Example](assets/Example2.png)
